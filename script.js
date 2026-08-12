@@ -2,7 +2,7 @@
 const START_DATE = new Date("2025-07-12T00:00:00");
 
 // Troque pelo link que o QR Code deve abrir.
-const QR_LINK = "https://exemplo.com/nosso-site";
+const QR_LINK = "https://1anoe1mesd.netlify.app/";
 
 // Se quiser colocar uma frase secreta especial, troque aqui.
 const SECRET_MESSAGE = "Meu lugar favorito no mundo continua sendo qualquer lugar onde você esteja. ♥";
